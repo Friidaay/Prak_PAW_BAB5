@@ -1,0 +1,5 @@
+Nama: Iqbal, NIM: 245150200111022, Prodi: Teknik Informatika
+Nama: Wildan, NIM: 245150307111005, Prodi: Teknik Komputer
+Nama: Rafi, NIM: 245150401111017, Prodi: Sistem Informasi
+Nama: Hafidz, NIM: 245150707111025, Prodi: Pendidikan Teknologi Informasi
+Nama: Daffa, NIM: 245150600111010, Prodi: Teknologi Informasi
